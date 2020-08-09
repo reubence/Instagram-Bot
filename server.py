@@ -68,6 +68,7 @@ while True:
                 # file.close()
             except:
                 continue
+                time.sleep(300)
                 print("Can't post to IG")
         else:
             continue
