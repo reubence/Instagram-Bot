@@ -1,0 +1,93 @@
+2020-08-04 15:33:40,814 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-08-04 15:33:40,814 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\reube\miniconda3\envs\minimal_ds\lib\site-packages\instabot\bot\bot.py
+2020-08-04 15:33:40,815 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-08-04 15:33:40,816 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-08-04 15:33:40,816 - instabot version: 0.117.0 (api_login) - INFO - Recovery from H:\GitHub\Reddit-Insta-Bot/config/memes_byai_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9306c2e1-7935-47fa-b5a2-4af12d3f048d
+- uuid=08156bcd-8f4e-4a2a-866e-6b9f616f5337
+- client_session_id=5324faa0-d68e-4bbf-b8b2-be1dfd5b778e
+- device_id=android-1d6246396561fa9b
+2020-08-04 15:33:40,816 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-08-04 15:33:42,267 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-08-04 15:33:42,914 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-08-04 15:33:42,915 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'memes_byai'!
+2020-08-04 15:33:42,915 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: H:\GitHub\Reddit-Insta-Bot/config/memes_byai.checkpoint
+2020-08-04 15:33:45,451 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-08-04 15:33:45,451 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\reube\miniconda3\envs\minimal_ds\lib\site-packages\instabot\bot\bot.py
+2020-08-04 15:33:45,452 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-08-04 15:33:45,452 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-08-04 15:33:45,452 - instabot version: 0.117.0 (api_login) - INFO - Recovery from H:\GitHub\Reddit-Insta-Bot/config/memes_byai_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9306c2e1-7935-47fa-b5a2-4af12d3f048d
+- uuid=08156bcd-8f4e-4a2a-866e-6b9f616f5337
+- client_session_id=5324faa0-d68e-4bbf-b8b2-be1dfd5b778e
+- device_id=android-1d6246396561fa9b
+2020-08-04 15:33:45,452 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-08-04 15:33:46,784 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-08-04 15:33:47,349 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-08-04 15:33:47,349 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'memes_byai'!
+2020-08-04 15:33:47,350 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: H:\GitHub\Reddit-Insta-Bot/config/memes_byai.checkpoint
+2020-08-04 15:34:10,821 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-08-04 15:34:11,293 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-08-04 15:34:11,469 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-08-04 15:34:11,469 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\reube\miniconda3\envs\minimal_ds\lib\site-packages\instabot\bot\bot.py
+2020-08-04 15:34:11,470 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-08-04 15:34:11,470 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-08-04 15:34:11,470 - instabot version: 0.117.0 (api_login) - INFO - Recovery from H:\GitHub\Reddit-Insta-Bot/config/memes_byai_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9306c2e1-7935-47fa-b5a2-4af12d3f048d
+- uuid=08156bcd-8f4e-4a2a-866e-6b9f616f5337
+- client_session_id=5324faa0-d68e-4bbf-b8b2-be1dfd5b778e
+- device_id=android-1d6246396561fa9b
+2020-08-04 15:34:11,471 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-08-04 15:34:12,783 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-08-04 15:34:13,352 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-08-04 15:34:13,352 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'memes_byai'!
+2020-08-04 15:34:13,352 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: H:\GitHub\Reddit-Insta-Bot/config/memes_byai.checkpoint
+2020-08-04 15:34:36,198 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-08-04 15:34:36,694 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-08-04 15:34:37,124 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-08-04 15:34:37,124 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\reube\miniconda3\envs\minimal_ds\lib\site-packages\instabot\bot\bot.py
+2020-08-04 15:34:37,125 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-08-04 15:34:37,125 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-08-04 15:34:37,125 - instabot version: 0.117.0 (api_login) - INFO - Recovery from H:\GitHub\Reddit-Insta-Bot/config/memes_byai_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9306c2e1-7935-47fa-b5a2-4af12d3f048d
+- uuid=08156bcd-8f4e-4a2a-866e-6b9f616f5337
+- client_session_id=5324faa0-d68e-4bbf-b8b2-be1dfd5b778e
+- device_id=android-1d6246396561fa9b
+2020-08-04 15:34:37,125 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-08-04 15:34:38,529 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-08-04 15:34:39,106 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-08-04 15:34:39,107 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'memes_byai'!
+2020-08-04 15:34:39,107 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: H:\GitHub\Reddit-Insta-Bot/config/memes_byai.checkpoint
+2020-08-04 15:35:01,675 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-08-04 15:35:02,131 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-08-04 15:35:02,436 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-08-04 15:35:02,436 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\reube\miniconda3\envs\minimal_ds\lib\site-packages\instabot\bot\bot.py
+2020-08-04 15:35:02,437 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-08-04 15:35:02,437 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-08-04 15:35:02,437 - instabot version: 0.117.0 (api_login) - INFO - Recovery from H:\GitHub\Reddit-Insta-Bot/config/memes_byai_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9306c2e1-7935-47fa-b5a2-4af12d3f048d
+- uuid=08156bcd-8f4e-4a2a-866e-6b9f616f5337
+- client_session_id=5324faa0-d68e-4bbf-b8b2-be1dfd5b778e
+- device_id=android-1d6246396561fa9b
+2020-08-04 15:35:02,438 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-08-04 15:35:03,800 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-08-04 15:35:04,402 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-08-04 15:35:04,402 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'memes_byai'!
+2020-08-04 15:35:04,403 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: H:\GitHub\Reddit-Insta-Bot/config/memes_byai.checkpoint
+2020-08-04 15:35:06,250 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-08-04 15:35:06,251 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'img.png' is not uploaded.
+2020-08-04 15:35:06,251 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: H:\GitHub\Reddit-Insta-Bot/config/memes_byai.checkpoint
+2020-08-04 15:35:06,251 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
+2020-08-04 15:35:06,251 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: H:\GitHub\Reddit-Insta-Bot/config/memes_byai.checkpoint
+2020-08-04 15:35:06,252 - instabot version: 0.117.0 (bot) - INFO - Total requests: 51
+2020-08-04 15:35:06,252 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: H:\GitHub\Reddit-Insta-Bot/config/memes_byai.checkpoint
+2020-08-04 15:35:06,252 - instabot version: 0.117.0 (bot) - INFO - Total requests: 51
+2020-08-04 15:35:06,252 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: H:\GitHub\Reddit-Insta-Bot/config/memes_byai.checkpoint
+2020-08-04 15:35:06,252 - instabot version: 0.117.0 (bot) - INFO - Total requests: 51
+2020-08-04 15:35:06,253 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: H:\GitHub\Reddit-Insta-Bot/config/memes_byai.checkpoint
+2020-08-04 15:35:06,253 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49

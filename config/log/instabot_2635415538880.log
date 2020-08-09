@@ -1,0 +1,27 @@
+2020-08-04 15:53:36,540 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-08-04 15:53:36,540 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\reube\miniconda3\envs\minimal_ds\lib\site-packages\instabot\bot\bot.py
+2020-08-04 15:53:36,541 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-08-04 15:53:36,541 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-08-04 15:53:36,541 - instabot version: 0.117.0 (api_login) - INFO - Recovery from H:\GitHub\Reddit-Insta-Bot/config/memes_byai_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=9306c2e1-7935-47fa-b5a2-4af12d3f048d
+- uuid=08156bcd-8f4e-4a2a-866e-6b9f616f5337
+- client_session_id=5324faa0-d68e-4bbf-b8b2-be1dfd5b778e
+- device_id=android-1d6246396561fa9b
+2020-08-04 15:53:36,542 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-08-04 15:53:37,859 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-08-04 15:53:38,373 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-08-04 15:53:38,373 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'memes_byai'!
+2020-08-04 15:53:38,374 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: H:\GitHub\Reddit-Insta-Bot/config/memes_byai.checkpoint
+2020-08-04 15:53:40,834 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-08-04 15:53:40,834 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'img.png' is not uploaded.
+2020-08-04 15:53:40,835 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: H:\GitHub\Reddit-Insta-Bot/config/memes_byai.checkpoint
+2020-08-04 15:53:40,835 - instabot version: 0.117.0 (bot) - INFO - Total requests: 51
+2020-08-04 15:53:40,835 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: H:\GitHub\Reddit-Insta-Bot/config/memes_byai.checkpoint
+2020-08-04 15:53:40,836 - instabot version: 0.117.0 (bot) - INFO - Total requests: 53
+2020-08-04 15:53:40,836 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: H:\GitHub\Reddit-Insta-Bot/config/memes_byai.checkpoint
+2020-08-04 15:53:40,836 - instabot version: 0.117.0 (bot) - INFO - Total requests: 53
+2020-08-04 15:53:40,836 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: H:\GitHub\Reddit-Insta-Bot/config/memes_byai.checkpoint
+2020-08-04 15:53:40,836 - instabot version: 0.117.0 (bot) - INFO - Total requests: 51
+2020-08-04 15:53:40,837 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: H:\GitHub\Reddit-Insta-Bot/config/memes_byai.checkpoint
+2020-08-04 15:53:40,837 - instabot version: 0.117.0 (bot) - INFO - Total requests: 51
