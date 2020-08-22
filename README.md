@@ -104,7 +104,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Reuben Rapose - [LinkedIn](https://www.linkedin.com/in/reubence/) - reuben.rapose@gmail.com
 
-Project Link: [https://github.com/reubence/Prime-ABGB-Custom-Price-Tracker](https://github.com/reubence/Prime-ABGB-Custom-Price-Tracker)
+Project Link: [https://github.com/reubence/Instagram-Bot](https://github.com/reubence/Instagram-Bot)
 
 
 
