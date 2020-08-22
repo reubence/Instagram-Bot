@@ -20,7 +20,7 @@
   <h3 align="center">Instagram Bot</h3>
 
   <p align="center">
-    An automated bot that looks for memes on <a href = "https://www.reddit.com/">Reddit<a/> and uploads them on instagram.
+    An python web-scraping script that searces for memes on <a href = "https://www.reddit.com/">Reddit<a/> and uploads them on instagram automatically.
     <!--<br />
     <a href="https://github.com/reubence/Instagram-Bot"><strong>Explore the docs »</strong></a> -->
     <br />
