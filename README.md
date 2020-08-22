@@ -76,8 +76,9 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 ### Future Scope
 List of features that can be added :
-	* NLP Caption Generator
-	* Simulating engagement on Instagram by liking, following and commenting on other people's posts.
+
+* NLP Caption Generator
+* Simulating engagement on Instagram by liking, following and commenting on other people's posts.
 
 <!-- CONTRIBUTING -->
 ## Contributing
