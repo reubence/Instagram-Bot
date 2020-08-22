@@ -39,7 +39,7 @@
 ## Table of Contents
 
 * [About this Project](#about-the-project)
- * [Built With](#built-with)
+	* [Built With](#built-with)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)<!--* [License](#license)-->
 * [Contact](#contact)
