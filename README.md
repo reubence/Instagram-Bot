@@ -41,7 +41,7 @@
 * [About this Project](#about-the-project)
 	* [Built With](#built-with)
 * [Roadmap](#roadmap)
-	*[Future Scope](#future-scope)
+	* [Future Scope](#future-scope)
 * [Contributing](#contributing)<!--* [License](#license)-->
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
