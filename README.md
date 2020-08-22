@@ -74,7 +74,10 @@ Talking about the Bot, it basically comes down to this : A web scrapinig script 
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
-I'm thinking of adding an NLP caption Generator, along with the ability to comment, like and follow other people on Instagram. Again, all of this just for fun :smile:.
+### Future Scope
+List of features that can be added :
+	* NLP Caption Generator
+	* Simulating engagement on Instagram by liking, following and commenting on other people's posts.
 
 <!-- CONTRIBUTING -->
 ## Contributing
