@@ -56,9 +56,9 @@
  <h5 align="center">A Snapshot of the Instagram Page</h5>
   <p align="center">
 
-So, I gotta be honest, this was more of an experiment where I wanted to see how long it takes for Instagram to detect and ban my bot because I was posting in 15-minuite intervals. The results you ask? It took Instagram about 28 hours to detect some kind of Hate Speech in my captions (I'm guessing somebody reported the account) after which it blocked my bot from posting captions for pictures. But apart from that my bot didn't get banned as such even after 3 days of posting continuously.
+So, I gotta be honest, this was more of an experiment and I wanted to see how long it takes for Instagram to detect and ban my bot because I was posting in 15-minuite intervals. The results you ask? It took Instagram about 28 hours to detect some kind of Hate Speech in my captions (I'm guessing somebody reported the account) after which it blocked my bot from posting captions for pictures. But apart from that my bot didn't get banned as such even after 3 days of posting continuously.
 
-Talking about the Bot itself, it basically comes down to this : It's a web scrapinig script hosted on heroku which runs 24/7 and looks for memes from <a href="https://www.reddit.com/r/memes/">r/memes<a/> and posts them on Instagram every 15-minutes.
+Talking about the Bot, it basically comes down to this : A web scrapinig script hosted on heroku which runs 24/7 and looks for memes from <a href="https://www.reddit.com/r/memes/">r/memes<a/> and posts them on Instagram every 15-minutes.
 
 
 
