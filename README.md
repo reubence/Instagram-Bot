@@ -20,7 +20,7 @@
   <h3 align="center">Instagram Bot</h3>
 
   <p align="center">
-    An automated bot which looks for memes on <a href = "reddit.com">Reddit<a/> and uploads them on instagram without human intervention.
+    An automated bot which looks for memes on <a href = "www.reddit.com">Reddit<a/> and uploads them on instagram without human intervention.
     <!--<br />
     <a href="https://github.com/reubence/Instagram-Bot"><strong>Explore the docs »</strong></a> -->
     <br />
