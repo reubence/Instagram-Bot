@@ -20,12 +20,12 @@
   <h3 align="center">Instagram Bot</h3>
 
   <p align="center">
-    An automated bot that looks for memes on <a href = "https://www.reddit.com/">Reddit<a/> and uploads them on instagram without human intervention.
+    An automated bot that looks for memes on <a href = "https://www.reddit.com/">Reddit<a/> and uploads them on instagram.
     <!--<br />
     <a href="https://github.com/reubence/Instagram-Bot"><strong>Explore the docs »</strong></a> -->
     <br />
     <br />
-    <a href="https://www.instagram.com/sasta_skynet/?hl=en">View Demo</a>
+    <a href="https://www.instagram.com/sasta_skynet/?hl=en">View Bot</a>
     ·
     <a href="https://github.com/reubence/Instagram-Bot/issues">Report Bug</a>
     ·
@@ -39,6 +39,7 @@
 ## Table of Contents
 
 * [About this Project](#about-the-project)
+ * [Built With](#built-with)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)<!--* [License](#license)-->
 * [Contact](#contact)
@@ -55,14 +56,17 @@
  <h5 align="center">A Snapshot of the Instagram Page</h5>
   <p align="center">
 
-So, I gotta be honest, this was more of an experiment where I wanted to see how long it takes for Instagram to detect and ban my bot because I was posting in every 15-minuite intervals. It took Instagram about 28 hours to detect some kind of Hate Speech after which it blocked my bot from posting captions for pictures. But apart from that my bot didn't get banned as such even after 3 days of posting continuously.
+So, I gotta be honest, this was more of an experiment where I wanted to see how long it takes for Instagram to detect and ban my bot because I was posting in 15-minuite intervals. The results you ask? It took Instagram about 28 hours to detect some kind of Hate Speech in my captions (I'm guessing somebody reported the account) after which it blocked my bot from posting captions for pictures. But apart from that my bot didn't get banned as such even after 3 days of posting continuously.
+
+Talking about the Bot itself, it basically comes down to this : It's a web scrapinig script hosted on heroku which runs 24/7 and looks for memes from <a href="https://www.reddit.com/r/memes/">r/memes<a/> and posts them on Instagram every 15-minutes.
 
 
 
 ### Built With
 
 * [Heroku](https://heroku.com/)
-* [Dash](https://plotly.com/dash/)
+* [instabot](https://pypi.org/project/instabot/)
+* [praw](https://praw.readthedocs.io/en/latest/)
 
 
 <!-- ROADMAP -->
