@@ -60,7 +60,7 @@ while True:
             try:
                 bot = Bot()
                 bot.login(username="memes_byai",
-                          password="reuben123")
+                          password="********")
                 bot.upload_photo("img.png",
                                  caption="%s \n. \n. \n. \n. \n. \n. \nThis is an auto-generated post. The Image & Caption were chosen from r/memes. " % caption)
                 time.sleep(1800)
